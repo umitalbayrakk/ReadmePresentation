@@ -38,7 +38,7 @@
   <a href="https://stackoverflow.com/users/23588296/%c3%9cmit-albayrak" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
-  <a href="https://twitter.com/umitalbayrakktr" target="_blank">
+  <a href="https://twitter.com/umitalbayraktr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
